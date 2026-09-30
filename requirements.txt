@@ -1,0 +1,4 @@
+numpy
+pretty_midi
+tensorflow
+scikit-learn
